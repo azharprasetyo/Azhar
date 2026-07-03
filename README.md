@@ -14,7 +14,7 @@
 Grammar tersebut menyatakan bahwa sebuah perulangan terdiri dari keyword while, kondisi, dan satu pernyataan assignment di dalam blok.
 
 2. Implementasi Program (Python)
-import re
+import 
 
 class WhileCompiler:
 
